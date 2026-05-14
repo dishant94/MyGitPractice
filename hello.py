@@ -16,3 +16,5 @@ elif (player == 'rock' and computer == 'scissors') or \
     print(f"You win! Computer chose {computer}.")
 else:
     print(f"Computer wins! It chose {computer}.")
+
+print("pull request")
